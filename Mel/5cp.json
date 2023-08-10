@@ -29,85 +29,77 @@
   ],
   "Mods": [
     {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
+      "name": "MTF",
+      "image": "https://aweu.net/MOD%20MELON/Mantingan/SCP/MTF/MTF.jpg",
+      "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/SCP/MTF/mMTF.zip",
+      "link_saves": "null",
       "type": "C",
       "description": "null"
     },
      {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
+      "name": "Operative Ε-11",
+      "image": "https://aweu.net/MOD%20MELON/Mantingan/SCP/Operative%20%CE%95-11/Operative%20%CE%95-11.jpg",
+      "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/SCP/Operative%20%CE%95-11/mOperative%20%CE%95-11.zip",
+      "link_saves": "null",
       "type": "C",
       "description": "null"
     },
      {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
+      "name": "Postans of Chaos",
+      "image": "https://aweu.net/MOD%20MELON/Mantingan/SCP/Postans%20of%20Chaos/Postans%20of%20Chaos.jpg",
+      "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/SCP/Postans%20of%20Chaos/mPostans%20of%20Chaos.zip",
+      "link_saves": "null",
       "type": "C",
       "description": "null"
     },
      {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
+      "name": "SCP 049-2",
+      "image": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20049-2/SCP%20049-2.jpg",
+      "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20049-2/mSCP%20049-2.zip",
+      "link_saves": "null",
       "type": "C",
       "description": "null"
     },
      {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
+      "name": "SCP 087-B",
+      "image": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20087-B/SCP%20087-B.jpg",
+      "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20087-B/mSCP%20087-B.zip",
+      "link_saves": "null",
       "type": "C",
       "description": "null"
     },
      {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
+      "name": "SCP by Tankman",
+      "image": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20by%20Tankman/SCP%20by%20Tankman.jpg",
+      "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20by%20Tankman/mSCP%20by%20Tankman.zip",
+      "link_saves": "null",
       "type": "C",
       "description": "null"
     },
      {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
+      "name": "SCP Card",
+      "image": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20Card/SCP%20Card.jpg",
+      "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20Card/mSCP%20Card.zip",
+      "link_saves": "null",
       "type": "C",
       "description": "null"
     },
      {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
+      "name": "SCP Guard",
+      "image": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20Guard/SCP%20Guard.jpg",
+      "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP%20Guard/mSCP%20Guard.zip",
+      "link_saves": "null",
       "type": "C",
       "description": "null"
     },
      {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
+      "name": "SCP-106",
+      "image": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP-106/SCP-106.jpg",
+      "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/SCP/SCP-106/mSCP-106.zip",
+      "link_saves": "null",
       "type": "C",
       "description": "null"
     }
-    ,
-     {
-      "name": "",
-      "image": "https://aweu.net/",
-      "link_mods": "https://aweu.net/",
-      "link_saves": "https://aweu.net/",
-      "type": "C",
-      "description": "null"
-    }
+    
   ]
 }
