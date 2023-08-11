@@ -42,7 +42,7 @@
       "link_mods": "null",
       "link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Monster/Carrion/sCarrion.melsave.zip",
       "type": "C",
-      "description": "null"
+      "description": ""
     },
      {
       "name": "Christmas Monsters",
@@ -50,7 +50,7 @@
       "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Monster/Christmas%20Monsters/mChristmas%20Monsters.zip",
       "link_saves": "null",
       "type": "C",
-      "description": "null"
+      "description": ""
     },
      {
       "name": "Monster",
@@ -66,7 +66,7 @@
       "link_mods": "null",
       "link_saves": "https://aweu.net/MOD%20MELON/Mantingan/Monster/Monster%20drum/sMonster%20drum.zip",
       "type": "C",
-      "description": "null"
+      "description": ""
     },
      {
       "name": "Monster Forest",
@@ -74,7 +74,7 @@
       "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Monster/Monster%20Forest/mMonster%20Forest.zip",
       "link_saves": "null",
       "type": "C",
-      "description": "null"
+      "description": ""
     },
      {
       "name": "Monsters from the place",
@@ -82,7 +82,7 @@
       "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Monster/Monsters%20from%20the%20place/mMonsters%20from%20the%20place.zip",
       "link_saves": "null",
       "type": "C",
-      "description": "null"
+      "description": ""
     },
      {
       "name": "Pumpkin monster",
@@ -90,7 +90,7 @@
       "link_mods": "https://aweu.net/MOD%20MELON/Mantingan/Monster/Pumpkin%20monster/mPumpkin%20monster.zip",
       "link_saves": "null",
       "type": "C",
-      "description": "null"
+      "description": ""
     }
   ]
 }
